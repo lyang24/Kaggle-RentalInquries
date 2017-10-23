@@ -1,4 +1,4 @@
-# KaggleRentalInquries
+# Ny First Kaggle Competition
 
 https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 
@@ -15,4 +15,3 @@ My model is 10 xgboost stacked with 10 lightgbm based on parameter tuning scores
 
 see my notebook for more details.
 
-![Alt text](/relative/KaggleRentalInquries/ranking.PNG?raw=true "Optional Title")
