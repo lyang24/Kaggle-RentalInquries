@@ -15,4 +15,4 @@ My model is 10 xgboost stacked with 10 lightgbm based on parameter tuning scores
 
 see my notebook for more details.
 
-KaggleRentalInquries/ranking.PNG
+![Alt text](/relative/KaggleRentalInquries/ranking.PNG?raw=true "Optional Title")
