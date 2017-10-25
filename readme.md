@@ -11,11 +11,11 @@ small data set with 3 classes evaluated on logloss.
 
 
 ### My main features includes:
-basic numerics features
-date time features
-high cardinal features encoded
-geo clustering features
-features from description
+* basic numerics features
+* date time features
+* high cardinal features encoded
+* geo clustering features
+* features from description
 
 I stacked XGBOOST and LIGHTGBM based on parameter tuning scores.
 
