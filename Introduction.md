@@ -4,6 +4,8 @@ https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 
 My first real Kaggle competiton - I ranked 254th out of 2488 competitors (kaggle lyang24)
 
+![alt text](https://github.com/lyang24/KaggleRentalInquries/blob/master/ranking.PNG?raw=true "Description goes here")
+
 My main features includes:
 basic numerics features
 date time features
