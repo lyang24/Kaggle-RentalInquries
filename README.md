@@ -1,4 +1,4 @@
-# Ny First Kaggle Competition
+# Two Sigma & Renthop Rental Interest Classification
 
 https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 
